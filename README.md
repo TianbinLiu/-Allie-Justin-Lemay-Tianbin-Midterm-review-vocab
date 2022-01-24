@@ -11,6 +11,6 @@ This is the Github page for the midterm review vocab
 * <a href="https://github.com/TianbinLiu/-Allie-Justin-Lemay-Tianbin-Midterm-review-vocab/wiki/Blueprints">Blueprints</a>
 * <a href="https://github.com/TianbinLiu/-Allie-Justin-Lemay-Tianbin-Midterm-review-vocab/wiki/MVC">MVC</a>
 * <a href="https://github.com/TianbinLiu/-Allie-Justin-Lemay-Tianbin-Midterm-review-vocab/wiki/Code-Sequence,-Procedures-Functions,-Procedural-Abstraction">Code Sequence, Procedures/Functions, Procedural Abstraction</a>
-* <a href="https://github.com/TheRadRabbidRabbit/Team-Lovelace/commits?author=xiaoa0">OOP, Class, Attribute, Method, Object</a>
+* <a href="https://github.com/TianbinLiu/-Allie-Justin-Lemay-Tianbin-Midterm-review-vocab/wiki/OOP,-Class,-Attribute,-Method,-Object">OOP, Class, Attribute, Method, Object</a>
 * <a href="https://github.com/TianbinLiu/-Allie-Justin-Lemay-Tianbin-Midterm-review-vocab/wiki/CRUD">CRUD</a>
 * <a href="https://github.com/TheRadRabbidRabbit/Team-Lovelace/commits?author=xiaoa0">Sort, Search-Linear/Binary</a>
