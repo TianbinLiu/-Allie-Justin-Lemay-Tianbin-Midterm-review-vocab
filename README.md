@@ -2,7 +2,7 @@
 This is the Github page for the midterm review vocab
 * <a href="https://github.com/TianbinLiu/-Allie-Justin-Lemay-Tianbin-Midterm-review-vocab/wiki/Binary-Hexadecimal,-Bit,-Nibble,-Byte">Binary/Hexadecimal, Bit, Nibble, Byte</a>
 * <a href="https://github.com/TianbinLiu/-Allie-Justin-Lemay-Tianbin-Midterm-review-vocab/wiki/Data,-Data-Abstraction">Data, Data Abstraction</a>
-* <a href="https://github.com/TheRadRabbidRabbit/Team-Lovelace/commits?author=xiaoa0">Lossless/Lossy Compression</a>
+* <a href="https://github.com/TianbinLiu/-Allie-Justin-Lemay-Tianbin-Midterm-review-vocab/wiki/Lossless-Lossy-Compression">Lossless/Lossy Compression</a>
 * <a href="https://github.com/TianbinLiu/-Allie-Justin-Lemay-Tianbin-Midterm-review-vocab/Metadata">Metadata</a>
 * <a href="https://github.com/TianbinLiu/-Allie-Justin-Lemay-Tianbin-Midterm-review-vocab/wiki/Computer-Network,-Parallel-Distributed-computing">Computer Network, Parallel/Distributed computing</a>
 * <a href="https://github.com/TheRadRabbidRabbit/Team-Lovelace/commits?author=xiaoa0">Protocol, TCP/IP, HTTP, GET, POST</a>
