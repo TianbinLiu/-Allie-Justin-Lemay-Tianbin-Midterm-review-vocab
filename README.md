@@ -1,6 +1,6 @@
 # -Allie-Justin-Lemay-Tianbin-Midterm-review-vocab
 This is the Github page for the midterm review vocab
-* <a href="https://github.com/TheRadRabbidRabbit/Team-Lovelace/commits?author=xiaoa0">Binary/Hexadecimal, Bit, Nibble, Byte</a>
+* <a href="https://github.com/TianbinLiu/-Allie-Justin-Lemay-Tianbin-Midterm-review-vocab/wiki/Binary-Hexadecimal,-Bit,-Nibble,-Byte">Binary/Hexadecimal, Bit, Nibble, Byte</a>
 * <a href="https://github.com/TheRadRabbidRabbit/Team-Lovelace/commits?author=xiaoa0">Data, Data Abstraction</a>
 * <a href="https://github.com/TheRadRabbidRabbit/Team-Lovelace/commits?author=xiaoa0">Lossless/Lossy Compression</a>
 * <a href="https://github.com/TheRadRabbidRabbit/Team-Lovelace/commits?author=xiaoa0">Metadata</a>
