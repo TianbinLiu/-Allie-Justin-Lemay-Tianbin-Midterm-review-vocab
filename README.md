@@ -5,7 +5,7 @@ This is the Github page for the midterm review vocab
 * <a href="https://github.com/TianbinLiu/-Allie-Justin-Lemay-Tianbin-Midterm-review-vocab/wiki/Lossless-Lossy-Compression">Lossless/Lossy Compression</a>
 * <a href="https://github.com/TianbinLiu/-Allie-Justin-Lemay-Tianbin-Midterm-review-vocab/Metadata">Metadata</a>
 * <a href="https://github.com/TianbinLiu/-Allie-Justin-Lemay-Tianbin-Midterm-review-vocab/wiki/Computer-Network,-Parallel-Distributed-computing">Computer Network, Parallel/Distributed computing</a>
-* <a href="https://github.com/TheRadRabbidRabbit/Team-Lovelace/commits?author=xiaoa0">Protocol, TCP/IP, HTTP, GET, POST</a>
+* <a href="https://github.com/TianbinLiu/-Allie-Justin-Lemay-Tianbin-Midterm-review-vocab/wiki/Protocol,-TCP-IP,-HTTP,-GET,-POST">Protocol, TCP/IP, HTTP, GET, POST</a>
 * <a href="https://github.com/TianbinLiu/-Allie-Justin-Lemay-Tianbin-Midterm-review-vocab/wiki/Library,-Dependencies,-Import">Library, Dependencies, Import</a>
 * <a href="https://github.com/TianbinLiu/-Allie-Justin-Lemay-Tianbin-Midterm-review-vocab/wiki/Web-API,-REST,-FETCH,-Async,-Request,-Response">Web API, REST, FETCH, Async, Request, Response</a>
 * <a href="https://github.com/TianbinLiu/-Allie-Justin-Lemay-Tianbin-Midterm-review-vocab/wiki/Blueprints">Blueprints</a>
