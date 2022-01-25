@@ -14,4 +14,4 @@ This is the Github page for the midterm review vocab
 * <a href="https://github.com/TianbinLiu/-Allie-Justin-Lemay-Tianbin-Midterm-review-vocab/wiki/OOP,-Class,-Attribute,-Method,-Object">OOP, Class, Attribute, Method, Object</a>
 * <a href="https://github.com/TianbinLiu/-Allie-Justin-Lemay-Tianbin-Midterm-review-vocab/wiki/CRUD">CRUD</a>
 * <a href="https://github.com/TianbinLiu/-Allie-Justin-Lemay-Tianbin-Midterm-review-vocab/wiki/Sort,-Search-Linear-Binary">Sort, Search-Linear/Binary</a>
-* <a href="https://github.com/TianbinLiu/-Allie-Justin-Lemay-Tianbin-Midterm-review-vocab/wiki/Sort,-Search-Linear-Binary">Sort, Search-Linear/Binary</a>
+
