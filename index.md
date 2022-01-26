@@ -1,4 +1,4 @@
-# -Allie-Justin-Lemay-Tianbin-Midterm-review-vocab
+# -Allie-Justin-Tianbin-Midterm-review-vocab
 This is the Github page for the midterm review vocab
 * <a href="https://github.com/TianbinLiu/-Allie-Justin-Lemay-Tianbin-Midterm-review-vocab/wiki/Binary-Hexadecimal,-Bit,-Nibble,-Byte">Binary/Hexadecimal, Bit, Nibble, Byte</a>
 * <a href="https://github.com/TianbinLiu/-Allie-Justin-Lemay-Tianbin-Midterm-review-vocab/wiki/Data,-Data-Abstraction">Data, Data Abstraction</a>
